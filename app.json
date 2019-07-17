@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "jquery": "jquery",
+    "jqueryAPI": "jqueryAPI",
+  }
+}
